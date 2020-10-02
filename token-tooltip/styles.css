@@ -30,7 +30,7 @@ div.dmtk-tooltip div.value i {
   color: rgb(75, 130, 225);
 	width: 40px;
 	text-align: center;
-	padding-right: 10px;
+	padding-right: 5px;
 }
 
 /* Show the tooltip text when you mouse over the tooltip container */
