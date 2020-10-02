@@ -1,10 +1,10 @@
 Hooks.once("init", () => {
-	game.settings.register("RimesToolTip", "tooltipVisibility", {
+	game.settings.register("rimes-tooltip", "tooltipVisibility", {
 		name: "Rimes ToolTip Visibility",
 		hint: "This option determines on which tokens to display a tooltip when moused over for players. The tooltip is always displayed for the GM.",
 		scope: "world",
 		config: true,
-		default: "owned",
+		default: "GM Only",
 		type: String,
 		choices: {
 			"gm": "GM Only",
