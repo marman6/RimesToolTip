@@ -4,7 +4,7 @@ Hooks.on("hoverToken", (object, hovered) => {
 	if (event == undefined || keyboard.isDown("Alt")) return;
 	
 	// SETTINGS & DECLARATIONS
-	let showTooltip = game.settings.get("token-tooltip", "tooltipVisibility");
+	let showTooltip = game.settings.get("rimes-token-tooltip", "tooltipVisibility");
 	let disposition = parseInt(object.data.disposition);
 	
 	// PARSE TOKEN/ACTOR INFO
