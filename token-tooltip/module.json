@@ -7,7 +7,7 @@
 	"minimumCoreVersion": "0.6.0",
 	"compatibleCoreVersion": "0.6.5",
 	"systems": ["dnd5e"],
-	"scripts": ["./init.js", "./token-tooltip.js"],
+	"scripts": ["./init.js", "./rimes-tooltip.js"],
 	"styles": ["./styles.css"],
 	"url": "https://github.com/marman6/RimesToolTip",
 	"manifest": "https://raw.githubusercontent.com/marman6/RimesToolTip/main/token-tooltip/module.json",
