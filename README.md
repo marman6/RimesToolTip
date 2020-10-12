@@ -1,4 +1,4 @@
-## FULL CREDIT TO SKY#9453. I simply made the tooltip smaller form his code
+## FULL CREDIT TO SKY#9453. I simply made the tooltip smaller from his code
 
 ![](https://img.shields.io/badge/Foundry-v0.6.0-informational)
 ## Token Tooltips
