@@ -1,15 +1,5 @@
-## FULL CREDIT TO SKY#9453. I simply made the tooltip smaller from his code
-
 ![](https://img.shields.io/badge/Foundry-v0.6.0-informational)
 ## Token Tooltips
-
-* **Author**: Sky#9453, @solfolango77#0880  (Discord)
-* **Version**: 1.3.4
-* **Foundry VTT Compatibility**: 0.6.5
-* **System Compatibility**: D&D 5e
-
-### Link(s) to Skys Module
-* [https://github.com/Sky-Captain-13/foundry/tree/master/token-tooltip](https://github.com/Sky-Captain-13/foundry/tree/master/token-tooltip)
 
 ### Description
 This module adds a tooltip that displays vital stats when hovering over a token.
